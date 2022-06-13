@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        Home Page
+    </title>
+    <body>
+        <table>
+        <caption>Pulmón</caption>
+        <tr>
+            <th>SKU</th>
+            <th>QUANTITY</th>
+        </tr>
+        {% for i in pulmon_stock %}
+        <tr>
+            <td>{{i["sku"]}}</td>
+            <td>{{i["total"]}}</td>
+        </tr>
+        {% endfor %}
+        </tr>
+        </table>
+        <table>
+            <caption>Recepción</caption>
+            <tr>
+                <th>SKU</th>
+                <th>QUANTITY</th>
+            </tr>
+            {% for i in recepcion_stock %}
+            <tr>
+                <td>{{i["sku"]}}</td>
+                <td>{{i["total"]}}</td>
+            </tr>
+            {% endfor %}
+            </tr>
+            </table>
+        <table>
+                <caption>Cocina</caption>
+                <tr>
+                    <th>SKU</th>
+                    <th>QUANTITY</th>
+                </tr>
+                {% for i in cocina_stock %}
+                <tr>
+                    <td>{{i["sku"]}}</td>
+                    <td>{{i["total"]}}</td>
+                </tr>
+                {% endfor %}
+                </tr>
+        </table>
+        <table>
+            <caption>Despacho</caption>
+            <tr>
+                <th>SKU</th>
+                <th>QUANTITY</th>
+            </tr>
+            {% for i in despacho_stock %}
+            <tr>
+                <td>{{i["sku"]}}</td>
+                <td>{{i["total"]}}</td>
+            </tr>
+            {% endfor %}
+            </tr>
+        </table>
+    </body>
+
+</head>
+</html>

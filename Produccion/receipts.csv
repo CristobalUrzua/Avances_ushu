@@ -1,0 +1,47 @@
+SKU Producto,Nombre Producto,SKU Ingrediente,Nombre Ingrediente,Cantidad,Unidad,Lote producción,Cantidad para lote
+1000,Jugo de Naranja,15,Naranjas,2,Unid,3,1
+1000,Jugo de Naranja,1,Hielo,2,Unid,20,1
+1010,Piscola,300,Coca Cola,1,Unid,3,1
+1010,Piscola,600,Pisco,2,Unid,2,1
+1010,Piscola,1,Hielo,2,Unid,20,1
+2000,Canapé de salmón ahumado y habas,20,Salmón,1,Unid,10,1
+2000,Canapé de salmón ahumado y habas,60,Habas,2,Unid,2,1
+2000,Canapé de salmón ahumado y habas,40,Tostadas,2,Unid,5,1
+2050,Tomates rellenos de aguacate y huevos,56,Tomate,2,Unid,6,1
+2050,Tomates rellenos de aguacate y huevos,58,Palta,1,Unid,4,1
+2050,Tomates rellenos de aguacate y huevos,95,Huevos,2,Unid,6,1
+3000,Helado de nuez,105,Leche Condensada,2,Unid,4,1
+3000,Helado de nuez,101,Nueces,1,Unid,3,1
+3090,Peras a la nuez,16,Peras,1,Unid,2,1
+3090,Peras a la nuez,101,Nueces,2,Unid,3,1
+4000,Sopa de cebolla tradicional,70,Cebollas,2,Unid,5,1
+4000,Sopa de cebolla tradicional,10,Aceite de Oliva,1,Unid,15,1
+4000,Sopa de cebolla tradicional,100,Mantequilla,1,Unid,5,1
+4000,Sopa de cebolla tradicional,90,Queso,2,Unid,8,1
+4020,Sopa de Zapallo,52,Zapallo,1,Unid,4,1
+4020,Sopa de Zapallo,10,Aceite de Oliva,2,Unid,15,1
+4020,Sopa de Zapallo,54,Ajo,2,Unid,8,1
+4020,Sopa de Zapallo,56,Tomate,1,Unid,6,1
+5000,Risotto de Mote con Espárragos y Habas,80,Mote,2,Unid,6,1
+5000,Risotto de Mote con Espárragos y Habas,70,Cebollas,1,Unid,5,1
+5000,Risotto de Mote con Espárragos y Habas,60,Habas,1,Unid,2,1
+5000,Risotto de Mote con Espárragos y Habas,50,Espárragos,2,Unid,2,1
+5000,Risotto de Mote con Espárragos y Habas,90,Queso,2,Unid,8,1
+5100,Salmón a la Mantequilla con Espárragos,20,Salmón,1,Unid,10,1
+5100,Salmón a la Mantequilla con Espárragos,100,Mantequilla,2,Unid,5,1
+5100,Salmón a la Mantequilla con Espárragos,50,Espárragos,2,Unid,2,1
+10000,Bandeja Cielo Azul,2000,Canapé de salmón ahumado y habas,1,Unid,2,1
+10000,Bandeja Cielo Azul,4000,Sopa de cebolla tradicional,1,Unid,2,1
+10000,Bandeja Cielo Azul,5000,Risotto de Mote con Espárragos y Habas,1,Unid,2,1
+10000,Bandeja Cielo Azul,3000,Helado de nuez,1,Unid,2,1
+10000,Bandeja Cielo Azul,1000,Jugo de Naranja,1,Unid,2,1
+11000,Bandeja Arcoiris,2050,Tomates rellenos de aguacate y huevos,1,Unid,2,1
+11000,Bandeja Arcoiris,4020,Sopa de Zapallo,1,Unid,2,1
+11000,Bandeja Arcoiris,5100,Salmón a la Mantequilla con Espárragos,1,Unid,2,1
+11000,Bandeja Arcoiris,3090,Peras a la nuez,1,Unid,2,1
+11000,Bandeja Arcoiris,1010,Piscola,1,Unid,2,1
+12000,Bandeja Cumulonimbus,2050,Tomates rellenos de aguacate y huevos,1,Unid,2,1
+12000,Bandeja Cumulonimbus,4000,Sopa de cebolla tradicional,1,Unid,2,1
+12000,Bandeja Cumulonimbus,5000,Risotto de Mote con Espárragos y Habas,1,Unid,2,1
+12000,Bandeja Cumulonimbus,3090,Peras a la nuez,1,Unid,2,1
+12000,Bandeja Cumulonimbus,1000,Jugo de Naranja,1,Unid,2,1

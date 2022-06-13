@@ -1,0 +1,3 @@
+[console_scripts]
+isodatetime = metomi.isodatetime.main:main
+

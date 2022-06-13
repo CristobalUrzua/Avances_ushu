@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <body>
+        <table>
+        <caption>Orders</caption>
+        <tr>
+            <th>#</th>
+            <th>OrderID</th>
+            <th>Status</th>
+            <th>Tipo_Producto</th>
+            <th>SKU_Producto</th>
+            <th>IDProductoAsignado</th>
+            <th>Vencimiento_Order</th>
+            <th>Prioridad</th>
+            <th>Sub_Producto_De</th>
+
+        </tr>
+        {% for i in df_orders.index %}
+        <tr>
+            <td>{{ i }}</td>
+            <td>{{ df_orders["OrderID"][i] }}</td>
+            <td>{{ df_orders["Status"][i] }}</td>
+            <td>{{ df_orders["Tipo_Producto"][i] }}</td>
+            <td>{{ df_orders["SKU_Producto"][i] }}</td>
+            <td>{{ df_orders["IDProductoAsignado"][i] }}</td>
+            <td>{{ df_orders["Vencimiento_Order"][i] }}</td>
+            <td>{{ df_orders["Prioridad"][i] }}</td>
+            <td>{{ df_orders["Sub_Producto_De"][i] }}</td>
+        </tr>
+        {% endfor %}
+        </tr>
+        </table>
+    </body>
+</head>
+</html>
+

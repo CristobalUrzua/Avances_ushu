@@ -1,0 +1,36 @@
+SKU,Nombre,Descripción,Costo producción lote,# Ingredientes,Duración esperada (hrs),Equivalencia unidades bodega,Unidad,Lote producción,Tiempo esperado producción (mins),Grupos Productores,Total Grupos Productores,Producción
+1,Hielo,Hielo para preparar bebestibles,$824,-,2,1,Unid,20,10,"1, 2, 3, 4",4,fabrica
+5,Sal,Sal,$666,-,8,1,Unid,15,10,"1, 2, 3, 4",4,fabrica
+10,Aceite de Oliva,Aceite de oliva para diferentes platos,$650,-,7,1,Unid,15,10,"1, 2, 3, 4",4,fabrica
+15,Naranjas,Naranja para hacer jugo,$820,-,6,1,Unid,3,80,"1, 2, 3, 4",4,fabrica
+16,Peras,Peras ,$724,-,6,1,Unid,2,50,"1, 2, 3, 4",4,fabrica
+20,Salmón,Salmón utilizado para hacer aperitivos,$530,-,5,1,Unid,10,60,"1, 2, 3, 4",4,fabrica
+40,Tostadas,Tostadas para hacer aperitivos,$928,-,6,1,Unid,5,30,"5, 6, 7, 8",4,fabrica
+50,Espárragos,"Esparragos para sopas,aperitivos y platos de fondo",$644,-,5,1,Unid,2,40,"5, 6, 7, 8",4,fabrica
+52,Zapallo,Zapallo,$930,-,4,1,Unid,4,60,"5, 6, 7, 8",4,fabrica
+54,Ajo,Ajo,$642,-,6,1,Unid,8,20,"5, 6, 7, 8",4,fabrica
+56,Tomate,Tomate,$749,-,5,1,Unid,6,40,"5, 6, 7, 8",4,fabrica
+58,Palta,Palta,$732,-,3,1,Unid,4,40,"5, 6, 7, 8",4,fabrica
+60,Habas,Habas para hacer aperitivos y platos de fondo,$799,-,4,1,Unid,2,50,"9, 10, 11, 12",4,fabrica
+70,Cebollas,Cebolla para hacer sopa y platos de fondo,$629,-,5,1,Unid,5,60,"9, 10, 11, 12",4,fabrica
+80,Mote,Mote para hacer rissoto,$894,-,5,1,Unid,6,55,"9, 10, 11, 12",4,fabrica
+90,Queso,Queso para hacer rissoto y sopas,$598,-,6,1,Unid,8,15,"9, 10, 11, 12",4,fabrica
+95,Huevos,Huevos,$854,-,4,1,Unid,6,40,"9, 10, 11, 12",4,fabrica
+100,Mantequilla,Mantequilla necesaria para la confección de sopa,$977,-,5,1,Unid,5,10,"13, 14, 15, 16, 17",5,fabrica
+101,Nueces,Nuez para hacer helado de nuez,$611,-,8,1,Unid,3,70,"13, 14, 15, 16, 17",5,fabrica
+105,Leche Condensada,Leche condensada para hacer Helado,$672,-,7,1,Unid,4,80,"13, 14, 15, 16, 17",5,fabrica
+300,Coca Cola,Coca Cola,$937,-,8,1,Unid,3,30,"13, 14, 15, 16, 17",5,fabrica
+600,Pisco,Pisco,$806,-,9,1,Unid,2,40,"13, 14, 15, 16, 17",5,fabrica
+1000,Jugo de Naranja,Jugo de naranja para acompañar la bandeja,$3.288,2,5,1,Unid,2,20,"1, 4, 7, 10, 13, 16",6,cocina
+1010,Piscola,Piscola,$4.197,3,7,1,Unid,3,10,"1, 4, 7, 10, 13, 16",6,cocina
+2000,Canapé de salmón ahumado y habas,Aperitivo para abrir el apetito,$3.984,3,6,1,Unid,2,30,"1, 4, 7, 10, 13, 16",6,cocina
+2050,Tomates rellenos de aguacate y huevos,Tomates Rellenos,$3.938,3,5,1,Unid,3,25,"2, 5, 8, 11, 14, 17",6,cocina
+3000,Helado de nuez,Postre para resaltar la satisfacción de los alimentos anteriores,$1.955,2,7,1,Unid,2,20,"2, 5, 8, 11, 14, 17",6,cocina
+3090,Peras a la nuez,Peras a la Nuez,$1.946,2,6,1,Unid,2,20,"2, 5, 8, 11, 14, 17",6,cocina
+4000,Sopa de cebolla tradicional,Sopa para proteger del frío,$4.081,4,7,1,Unid,3,10,"3, 6, 9, 12, 15",5,cocina
+4020,Sopa de Zapallo,Sopa de Zapallo,$4.263,4,6,1,Unid,2,20,"3, 6, 9, 12, 15",5,cocina
+5000,Risotto de Mote con Espárragos y Habas,Rissoto para acompañar la comida,$5.700,5,5,1,Unid,2,30,"3, 6, 9, 12, 15",5,cocina
+5100,Salmón a la Mantequilla con Espárragos,Salmón con Espárragos,$3.772,3,7,1,Unid,3,20,"3, 6, 9, 12, 15",5,cocina
+10000,Bandeja Cielo Azul,Bandeja ofrecida por las aerolineas,$19.008,5,4,1,Unid,1,10,todos,17,cocina
+11000,Bandeja Arcoiris,Bandeja ofrecida por las aerolineas,$18.116,5,5,1,Unid,1,15,todos,17,cocina
+12000,Bandeja Cumulonimbus,Bandeja ofrecida por las aerolineas,$18.953,5,6,1,Unid,1,20,todos,17,cocina
